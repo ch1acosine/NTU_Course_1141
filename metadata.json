@@ -1,0 +1,5 @@
+{
+  "name": "NTU Course Preference Ranking System",
+  "description": "A modern, clean course selection assistant that allows users to rank courses via drag-and-drop, manage time conflicts, filter PE courses, and view a comprehensive weekly schedule. Includes CSV export functionality.",
+  "requestFramePermissions": []
+}
